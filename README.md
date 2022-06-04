@@ -1,4 +1,4 @@
-* sql-dml-ddl-ops.sql
+* **sql-dml-ddl-ops.sql**
     * Review SQL DML and DDL
     * Sequences
     * Indexes
