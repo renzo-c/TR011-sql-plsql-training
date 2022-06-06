@@ -1,4 +1,4 @@
-* **sql-dml-ddl-ops.sql**
+* **01 - sql-dml-ddl-ops.sql**
     * Review SQL DML and DDL
     * Sequences
     * Indexes
@@ -15,3 +15,7 @@
     * Correlated subqueries
     * Nested Subqueries
     * Merge statements
+* **02 - plsql-cursors.sql**
+    * Block structures
+    * Data handling
+    * Data cursors
