@@ -15,6 +15,7 @@
     * Correlated subqueries
     * Nested Subqueries
     * Merge statements
+
 * **02 - plsql-cursors.sql**
     * Block structures
     * Data handling
@@ -24,3 +25,11 @@
     * Cursors
     * Procedures
     * Functions
+
+* **04-sql-plsql-project**
+    * Sequences
+    * Indexes
+    * Triggers
+    * Procedures
+    * Functions
+    * Packages
